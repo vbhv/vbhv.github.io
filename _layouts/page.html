@@ -1,0 +1,14 @@
+---
+layout: default
+---
+
+<article class="page">
+	<div class="post-content">
+		{{ content }}
+		{% if page.date %}
+		<span class="post-meta">Published in {{ page.date | date: "%B %Y" }}</span>
+		{% endif %}
+	</div>
+</article>
+
+{% include projects-grid.html %}

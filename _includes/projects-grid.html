@@ -1,0 +1,15 @@
+<div class="tiles-grid">
+
+{% assign projects = site.projects | reverse %}
+ 
+  {% for project in projects %}
+  <div class="tile">
+	<a href="{{ project.url | prepend: site.baseurl }}">
+	  <img src="{{ project.thumbnail }}">
+	  <p>{{ project.title | escape }}</p>
+	  <span class="tile-meta">{{ project.description }}</span>
+	</a>
+  </div>
+  {% endfor %}
+
+</div>
