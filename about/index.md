@@ -3,12 +3,14 @@ layout: page
 title: about
 permalink: /about/
 ---
+I am the co-founder and designer of Timescape – a new map-based interactive storytelling platform. At Timescape we explore new forms of collaborative storymaking and storytelling.  
 
-Vaibhav is the co-creator and designer of Timescape. A new interactive storytelling platform that uses maps and data visualization to narrate stories in geography and time.
+My work often stems from a desire to envision and facilitate powerful ways of knowing and engaging with the world through use of computational media, interactive technologies, and data. I like to work with location based media and technologies, maps and data visualizations, and occasionally dabble on experimental audio-visual projects. My work has been exhibited at international festivals including ARCO MediaLabMadrid, Ars Electronica, Conflux, MUKHA, and The Centre for Contemporary Image in Geneva.
 
-Vaibhav is a graduate of the Interactive Telecommunications Program at NYU, New York. His work often stems from a desire to envision powerful ways of knowing and engaging with the world through use of computational media, interactive technologies, and data.
+I previously led design initiatives at Yahoo and Ushahidi and was also part of the design innovation team at Yahoo Brickhouse – an early design and technology incubator. I am a graduate of the Interactive Telecommunications Program (ITP) at NYU, and Srishti School of Design and Technology, Bangalore.
 
-Vaibhav previously worked at Yahoo as an interaction and product designer and was part of the design innovation team at Yahoo Brickhouse. His work spans location based media and experiences, experimental audio-visual instruments, community mapping projects, and data visualizations exploring conversations on the internet. His work has been exhibited at international festivals including ARCO MediaLabMadrid, Ars Electronica, Conflux, MUKHA, and The Centre for Contemporary Image in Geneva.
+[Twitter](https://twitter.com/voybhav) • [LinkedIn](https://in.linkedin.com/in/vbhawsar)
 
-[Twitter](https://twitter.com/voybhav)  
-[LinkedIn](https://in.linkedin.com/in/vbhawsar)
+![LAWRENCE WEINER](http://www.moma.org/media/W1siZiIsIjIyMzczNiJdLFsicCIsImNvbnZlcnQiLCItcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=6c7cf1ac26853b50)
+
+© 2016 Lawrence Weiner / Artists Rights Society (ARS), New York
