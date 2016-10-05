@@ -28,4 +28,4 @@ Application information architecture and visualization component details
 [1]: /images/yahooanalytics/01.png "Detail and overview insights"
 [2]: /images/yahooanalytics/02.jpg "Conceptualizing the application via goal-based design process"
 [3]: /images/yahooanalytics/03.png "Task workflows based on research studies"
-[4]: /images/yahooanalytics/04.jpg "Application information architecture and visualization component details"
+[4]: /images/yahooanalytics/04.png "Application information architecture and visualization component details"
