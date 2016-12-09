@@ -1,7 +1,7 @@
 ---
 layout: page
 title: terraline
-description: wayfinding for the future
+description: Wayfinding for the future
 #header_background: 'pink'
 #header_image: ../images/header/terraline.jpg
 thumbnail: ../images/thumbnails/terraline.png

@@ -3,7 +3,7 @@ layout: page
 title: tween
 header_image: ../images/header/tween.jpg
 thumbnail: ../images/thumbnails/tween.png
-description: exploratory tool for visualising conversations
+description: Exploratory tool for visualising conversations
 date: 2007-08-01 00:00:00
 ---
 

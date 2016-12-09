@@ -2,7 +2,7 @@
 layout: page
 title: the lowlands
 thumbnail: ../images/thumbnails/lowlands.png
-description: eliciting hidden territories with maps
+description: Eliciting hidden territories with maps
 date: 2005-09-01 00:00:00
 ---
 

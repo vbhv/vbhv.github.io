@@ -4,7 +4,7 @@ title: udder-utter
 header_image: ../images/header/udder.jpg
 #header_background: '#FFDC50'
 thumbnail: ../images/thumbnails/udderutter.png
-description: gesture based audio-visual instrument
+description: Gesture based audio-visual instrument
 date: 2007-09-01 00:00:00
 ---
 

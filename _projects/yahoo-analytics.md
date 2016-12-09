@@ -3,7 +3,7 @@ layout: page
 title: yahoo analytics
 thumbnail: ../images/thumbnails/yahooanalytics.png
 header_image: ../images/header/yahooanalytics.jpg
-description: insights tool for publishers and advertisers
+description: Insights tool for publishers and advertisers
 date: 2011-03-30 00:00:00
 ---
 

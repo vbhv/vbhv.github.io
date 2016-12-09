@@ -3,7 +3,7 @@ layout: page
 title: fukushima
 header_image: ../images/header/fukushima.jpg
 thumbnail: ../images/thumbnails/fukushima.jpg
-description: visualising crowsourced radiation data
+description: Visualising crowsourced radiation data
 date: 2011-03-29 00:00:00
 ---
 
