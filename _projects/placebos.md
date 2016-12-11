@@ -4,7 +4,7 @@ title: placebos
 header_image: ../images/header/placebo.jpg
 #header_background: '#3BC492'
 thumbnail: ../images/thumbnails/placebos.png
-description: A SMS bot to log moods and receive weather updates as placebos
+description: SMS bot to log moods and receive weather updates as placebos
 date: 2007-09-01 00:00:00
 ---
 

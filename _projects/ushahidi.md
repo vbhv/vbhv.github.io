@@ -7,10 +7,10 @@ description: Changing the way information flows
 date: 2015-10-01 00:00:00
 ---
 
-Ushahidi is a non-profit technology company that builds open source platforms to help citizens, journalists, organizations, governments, and others gather, manage, analyze, and visualize crowdsourced data. I lead the design and implementation of a number of data visualisation initiatives at Ushahidi.
+Ushahidi is a non-profit technology company that builds open source platforms to help citizens, journalists, organizations, governments, and others gather, manage, analyze, and visualize crowdsourced data. I led the design and implementation of a number of data visualisation initiatives at Ushahidi.
 
 ### Ushahidi Tracker
-The Ushahidi Tracker aggregates all publicly available data from Ushahidi deployments from all over the world making it easy for anyone to analyze this massive stream of crowdsourced data. It is meant to give journalists, data scientists, developers, and other makers fast, easy access to critical humanitarian, and crowdsourced information. Read more about it on the [Ushahidi blog](https://www.ushahidi.com/blog/2015/10/06/ushahidi-tracker-visualising-reports-using-crisisnet-1).
+The Ushahidi Tracker aggregates all publicly available data from Ushahidi deployments from all over the world making it easy for anyone to analyze this massive stream of crowdsourced data. It is meant to give journalists, data scientists, developers, and other makers fast, easy access to critical humanitarian, and crowdsourced information.
 
 <video width="100%" controls poster="">
 <source src="https://dl.dropboxusercontent.com/u/2093993/site/ushahidi/ushtracker.ogg" type="video/ogg">
@@ -27,11 +27,11 @@ The Activity view enables deployment monitoring and situational awareness
 
 ![alt text][4]
 
-Conextual visualisations for understanding the trend of incoming reports over time
+Conextual visualisations help in understanding the trend of incoming reports over time
 
 ![alt text][5]
 
-Conextual visualisations for understanding the various types of incoming reports
+Conextual visualisations help in understanding the various types of incoming reports
 
 #### Other Projects
 

@@ -4,7 +4,7 @@ title: yahoo!
 #header_background: '#7a6699'
 header_image: ../images/header/yahoo.jpg
 thumbnail: ../images/thumbnails/yahoo.jpg
-description: A new discovery experience
+description: News discovery experience
 date: 2011-06-01 00:00:00
 ---
 
