@@ -12,9 +12,9 @@ The Lowlands project involved mapping my neighborhood communities, professions a
 
 <br>
 
-<video width="100%" controls poster="https://dl.dropboxusercontent.com/u/2093993/site/lowlands/lowlandscover">
-<source src="https://dl.dropboxusercontent.com/u/2093993/site/lowlands/lowlands.ogg" type="video/ogg">
-<source src="https://dl.dropboxusercontent.com/u/2093993/site/lowlands/lowlands.mp4" type="video/mp4">
+<video width="100%" controls poster="https://drive.google.com/uc?export=download&id=0B9y54HLy8OQsZEw1TzlBY291Z0k">
+<source src="https://drive.google.com/uc?export=download&id=0B9y54HLy8OQsbVJtbmlEOXl5Wlk" type="video/ogg">
+<source src="https://drive.google.com/uc?export=download&id=0B9y54HLy8OQsbi03Z2ptNHNVU0k" type="video/mp4">
 </video>
 Visualisation of the maps as they were made
 

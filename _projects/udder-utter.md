@@ -15,10 +15,10 @@ I see the Udder as an instrument for both, constructing and rupturing meaning by
 ![alt text][1]  
 
 <br>
-<video width="100%" controls poster="https://dl.dropboxusercontent.com/u/2093993/site/udder/udderperformancetb.jpg">
-<source src="https://dl.dropboxusercontent.com/u/2093993/site/udder/udderperformance-edited-opti.ogg" type="video/ogg">
-<source src="https://dl.dropboxusercontent.com/u/2093993/site/udder/udderperformance-edited-opti.mov" type="video/mp4">
-</video>  
+<video width="100%" controls poster="https://drive.google.com/uc?export=download&id=0B9y54HLy8OQsOHprME1pZWg1LTg">
+<source src="https://drive.google.com/uc?export=download&id=0B9y54HLy8OQsakplSzNVb3lFSmc" type="video/ogg">
+<source src="https://drive.google.com/uc?export=download&id=0B9y54HLy8OQsY1BmWlBMeFY0SHc" type="video/mp4">
+</video>
 
 NIME performance excerpt
 
@@ -30,12 +30,12 @@ A spring loaded mechanism with sensors for measuring pull, twist and squeeze ges
 
 Mapping gestures to language notation
 
-<video width="100%" controls poster="https://dl.dropboxusercontent.com/u/2093993/site/udder/uddermovtb.jpg">
-<source src="https://dl.dropboxusercontent.com/u/2093993/site/udder/udder.ogg" type="video/ogg">
-<source src="https://dl.dropboxusercontent.com/u/2093993/site/udder/udder.mov" type="video/mp4">
+<video width="100%" controls poster="https://drive.google.com/uc?export=download&id=0B9y54HLy8OQsLXVUTS1aaFNoaHM">
+<source src="https://drive.google.com/uc?export=download&id=0B9y54HLy8OQscjhxNjJfdjlWNFE" type="video/ogg">
+<source src="https://drive.google.com/uc?export=download&id=0B9y54HLy8OQsVjlkc1NKZUtraEk" type="video/mp4">
 </video>
 
-Video of visual system that responds to gestures made using the instrument
+Visual system responds to gestures made using the instrument
 
 ![alt text][4]
 

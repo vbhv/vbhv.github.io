@@ -9,7 +9,7 @@ date: 2016-01-01 00:00:00
 
 Storytelling and collaboration are two aspects of interactive media that are of great interest to me. I am the cofounder and designer of Timescape, a map-based storytelling platform, where we explore new forms of interactive story-making and storytelling. Timescape allows individuals and organisations to crowdsource and visualise stories on maps – turning digital campaigning into a highly interactive and visually engaging activity. We've enabled social enterprises and educational institutions like MIT, UNESCO, and WWF to build narrative driven crowdsourced maps that drive new types of online engagements with their communities. These maps enable outreach and advocacy campaigns, collaborative educational research and social/environmental impact mapping. As the cofounder my responsibilities include leading the design and engineering of the product with a nimble team of engineers and working alongside my partner/CEO in developing a business and growth strategy. We've bootstrapped our growth so far and work as a small mission driven outfit.
 
-[Website](https://timescape.io)
+[Timescape.io](https://timescape.io)
 
 <div class='embed-container'>
 <iframe src="//player.vimeo.com/video/89546043?title=0&amp;byline=0&amp;portrait=0" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
@@ -18,7 +18,7 @@ Storytelling and collaboration are two aspects of interactive media that are of 
 
 ![alt text][1]
 
-Collection of map based stories on Timescape
+Map based stories
 
 ![alt text][2]
 
@@ -40,11 +40,11 @@ Showing relationships between events in time
 
 2D maps for regional stories
 
-<video width="100%" controls poster="https://dl.dropboxusercontent.com/u/2093993/site/timescape/ts-home-cover.jpg">
-<source src="https://dl.dropboxusercontent.com/u/2093993/site/timescape/TS-homepage-og.ogg" type="video/ogg">
-<source src="https://dl.dropboxusercontent.com/u/2093993/site/timescape/TS-homepage.mov" type="video/mp4">
+<video width="100%" controls poster="https://drive.google.com/uc?export=download&id=0B9y54HLy8OQsUGpKeHNGRmJwc1k">
+<source src="https://drive.google.com/uc?export=download&id=0B9y54HLy8OQsaFprS0RiSnlOVGc" type="video/ogg">
+<source src="https://drive.google.com/uc?export=download&id=0B9y54HLy8OQsbG54OWhiU2Z4cHM" type="video/mp4">
 </video>
-Marketing Website
+Landing Page
 
 [1]: /images/timescape/01.jpg "Collection of map based stories on Timescape"
 [2]: /images/timescape/03.jpg "A coordinated map and timeline to explore the story in space and time"

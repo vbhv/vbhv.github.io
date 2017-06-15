@@ -13,11 +13,11 @@ date: 2007-09-01 00:00:00
 <br>
 Terraline is a hand-held navigation instrument that re-appropriates the magnetic compass to show directions that are not cardinal but indicators of economic states. This prototype allows its user to probe how many hours of work it would take to earn a meal at various distant locations in the pointed direction.
 
-
-<video width="100%" controls poster="https://dl.dropboxusercontent.com/u/2093993/site/terraline/Terraline-2x-cover">
-<source src="https://dl.dropboxusercontent.com/u/2093993/site/terraline/Terraline-2x-ex.ogg" type="video/ogg">
-<source src="https://dl.dropboxusercontent.com/u/2093993/site/terraline/Terraline-2x-ex.mov" type="video/mp4">
+<video width="100%" controls poster="https://drive.google.com/uc?export=download&id=0B9y54HLy8OQsb3VrTzZaQUxhUHM">
+<source src="https://drive.google.com/uc?export=download&id=0B9y54HLy8OQsTExKajczeDhGbWc" type="video/ogg">
+<source src="https://drive.google.com/uc?export=download&id=0B9y54HLy8OQsVF83c0VzMWFqZkk" type="video/mp4">
 </video>
+
 <!-- <div class='embed-container'>
 <iframe src="//player.vimeo.com/video/2391685?title=0&byline=0&portrait=0" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
 </div> -->
@@ -32,9 +32,9 @@ Concept sketches
 
 Fabrication
 
-<video width="100%" controls poster="https://dl.dropboxusercontent.com/u/2093993/site/terraline/terraline-viz-cover">
-<source src="https://dl.dropboxusercontent.com/u/2093993/site/terraline/terraline-viz.ogg" type="video/ogg">
-<source src="https://dl.dropboxusercontent.com/u/2093993/site/terraline/terraline-viz.mov" type="video/mp4">
+<video width="100%" controls poster="https://drive.google.com/uc?export=download&id=0B9y54HLy8OQsVm91NzcwU09YRDQ">
+<source src="https://drive.google.com/uc?export=download&id=0B9y54HLy8OQsNzVsREpXN0oxSHM" type="video/ogg">
+<source src="https://drive.google.com/uc?export=download&id=0B9y54HLy8OQsMUJnSWhOVWE2aEE" type="video/mp4">
 </video>
 Visualisation demonstrating line-of-sight searches to find points of interest
 

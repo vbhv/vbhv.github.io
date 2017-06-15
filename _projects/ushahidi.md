@@ -13,8 +13,8 @@ Ushahidi is a non-profit technology company that builds open source platforms to
 The Ushahidi Tracker aggregates all publicly available data from Ushahidi deployments from all over the world making it easy for anyone to analyze this massive stream of crowdsourced data. It is meant to give journalists, data scientists, developers, and other makers fast, easy access to critical humanitarian, and crowdsourced information.
 
 <video width="100%" controls poster="">
-<source src="https://dl.dropboxusercontent.com/u/2093993/site/ushahidi/ushtracker.ogg" type="video/ogg">
-<source src="https://dl.dropboxusercontent.com/u/2093993/site/ushahidi/ushtracker.mov" type="video/mp4">
+<!-- <source src="https://www.dropbox.com/s/u9pnvjg7p57acpg/ushtracker.ogg?dl=0" type="video/ogg"> -->
+<source src="https://drive.google.com/uc?export=download&id=0B9y54HLy8OQsZV9JV1R4bVIzNTQ" type="video/mp4">
 </video>
 <br>
 
