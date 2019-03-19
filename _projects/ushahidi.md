@@ -27,11 +27,11 @@ The Activity view enables deployment monitoring and situational awareness
 
 ![alt text][4]
 
-Conextual visualisations help in understanding the trend of incoming reports over time
+Contextual visualisations help in understanding the trend of incoming reports over time
 
 ![alt text][5]
 
-Conextual visualisations help in understanding the various types of incoming reports
+Contextual visualisations help in understanding the various types of incoming reports
 
 #### Other Projects
 
