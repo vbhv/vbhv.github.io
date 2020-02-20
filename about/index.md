@@ -12,6 +12,6 @@ I previously cofounded [Timescape](https://timescape.io), was a Ford/MDF design 
 
 [Twitter](https://twitter.com/voybhav) • [LinkedIn](https://in.linkedin.com/in/vbhawsar)
 
-![LAWRENCE WEINER](http://www.moma.org/media/W1siZiIsIjIyMzczNiJdLFsicCIsImNvbnZlcnQiLCItcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=6c7cf1ac26853b50)
+![LAWRENCE WEINER](https://www.moma.org/media/W1siZiIsIjIyMzczNiJdLFsicCIsImNvbnZlcnQiLCItcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=6c7cf1ac26853b50)
 
 © 2016 Lawrence Weiner / Artists Rights Society (ARS), New York
