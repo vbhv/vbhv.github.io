@@ -132,8 +132,8 @@ nav {
 .page-content {
     padding: $spacing-unit 0;
     p {
-        font-size: 15px;
-        font-weight: 300;
+        font-size: $base-font-size;
+        font-weight: $base-font-weight;
         color: /* $text-color */#333333;
         line-height: 1.4375em;
         letter-spacing: 0.0625em;
@@ -221,6 +221,9 @@ nav {
     justify-content: flex-start;
     flex-direction: row;
     flex-wrap: wrap;
+    @include media-query($on-palm) {
+        justify-content: space-between;
+    }
     .tile {
         width: 25%;
         margin-bottom: 1.5em;
@@ -230,6 +233,10 @@ nav {
             margin-bottom: 2px;
             margin-top: 10px;
             line-height: 1em;
+        }
+        @include media-query($on-palm) {
+            width: 48%;
+            margin-right: 0;
         }
     }
     .tile:nth-child(3n) {
