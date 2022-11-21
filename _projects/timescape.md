@@ -9,7 +9,7 @@ date: 2016-01-01 00:00:00
 
 Storytelling and collaboration are two aspects of interactive media that are of great interest to me. I am the cofounder and designer of Timescape, a map-based storytelling platform, where we explore new forms of interactive story-making and storytelling. Timescape allows individuals and organisations to crowdsource and visualise stories on maps – turning digital campaigning into a highly interactive and visually engaging activity. We've enabled social enterprises and educational institutions like MIT, UNESCO, and WWF to build narrative driven crowdsourced maps that drive new types of online engagements with their communities. These maps enable outreach and advocacy campaigns, collaborative educational research and social/environmental impact mapping. As the cofounder my responsibilities include leading the design and engineering of the product with a nimble team of engineers and working alongside my partner/CEO in developing a business and growth strategy. We've bootstrapped our growth so far and work as a small mission driven outfit.
 
-[Timescape.io](https://timescape.io)
+[Timescape.io (Archive)](https://twitter.com/timescaping){:target="_blank"}
 
 <div class='embed-container'>
 <iframe src="//player.vimeo.com/video/89546043?title=0&amp;byline=0&amp;portrait=0" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
