@@ -15,10 +15,7 @@ I see the Udder as an instrument for both, constructing and rupturing meaning by
 ![alt text][1]  
 
 <br>
-<video width="100%" controls poster="https://drive.google.com/uc?export=download&id=0B9y54HLy8OQsOHprME1pZWg1LTg">
-<source src="https://drive.google.com/uc?export=download&id=0B9y54HLy8OQsakplSzNVb3lFSmc" type="video/ogg">
-<source src="https://drive.google.com/uc?export=download&id=0B9y54HLy8OQsY1BmWlBMeFY0SHc" type="video/mp4">
-</video>
+<div style="padding:75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/904866097?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Udder-Utter NIME Performance"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 NIME performance excerpt
 
@@ -30,10 +27,7 @@ A spring loaded mechanism with sensors for measuring pull, twist and squeeze ges
 
 Mapping gestures to language notation
 
-<video width="100%" controls poster="https://drive.google.com/uc?export=download&id=0B9y54HLy8OQsLXVUTS1aaFNoaHM">
-<source src="https://drive.google.com/uc?export=download&id=0B9y54HLy8OQscjhxNjJfdjlWNFE" type="video/ogg">
-<source src="https://drive.google.com/uc?export=download&id=0B9y54HLy8OQsVjlkc1NKZUtraEk" type="video/mp4">
-</video>
+<div style="padding:66.67% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/904866310?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Udder Utter Visual System"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 Visual system responds to gestures made using the instrument
 

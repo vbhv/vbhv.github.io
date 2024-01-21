@@ -11,9 +11,7 @@ Storytelling and collaboration are two aspects of interactive media that are of 
 
 [Timescape.io (Twitter archive)](https://twitter.com/timescaping){:target="_blank"}
 
-<div class='embed-container'>
-<iframe src="//player.vimeo.com/video/89546043?title=0&amp;byline=0&amp;portrait=0" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
-</div>
+<div style="padding:76.92% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/89546043?h=7c5da12ea0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 <br>
 
 ![alt text][1]
@@ -39,12 +37,6 @@ Showing relationships between events in time
 ![alt text][6]
 
 2D maps for regional stories
-
-<video width="100%" controls poster="https://drive.google.com/uc?export=download&id=0B9y54HLy8OQsUGpKeHNGRmJwc1k">
-<source src="https://drive.google.com/uc?export=download&id=0B9y54HLy8OQsaFprS0RiSnlOVGc" type="video/ogg">
-<source src="https://drive.google.com/uc?export=download&id=0B9y54HLy8OQsbG54OWhiU2Z4cHM" type="video/mp4">
-</video>
-Landing Page
 
 [1]: /images/timescape/01.jpg "Collection of map based stories on Timescape"
 [2]: /images/timescape/03.jpg "A coordinated map and timeline to explore the story in space and time"

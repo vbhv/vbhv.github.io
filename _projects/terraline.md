@@ -13,10 +13,7 @@ date: 2007-09-01 00:00:00
 <br>
 Terraline is a hand-held navigation instrument that re-appropriates the magnetic compass to show directions that are not cardinal but indicators of economic states. This prototype allows its user to probe how many hours of work it would take to earn a meal at various distant locations in the pointed direction.
 
-<video width="100%" controls poster="https://drive.google.com/uc?export=download&id=0B9y54HLy8OQsb3VrTzZaQUxhUHM">
-<source src="https://drive.google.com/uc?export=download&id=0B9y54HLy8OQsTExKajczeDhGbWc" type="video/ogg">
-<source src="https://drive.google.com/uc?export=download&id=0B9y54HLy8OQsVF83c0VzMWFqZkk" type="video/mp4">
-</video>
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/904866683?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Terraline Demo"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 <!-- <div class='embed-container'>
 <iframe src="//player.vimeo.com/video/2391685?title=0&byline=0&portrait=0" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
@@ -32,10 +29,7 @@ Concept sketches
 
 Fabrication
 
-<video width="100%" controls poster="https://drive.google.com/uc?export=download&id=0B9y54HLy8OQsVm91NzcwU09YRDQ">
-<source src="https://drive.google.com/uc?export=download&id=0B9y54HLy8OQsNzVsREpXN0oxSHM" type="video/ogg">
-<source src="https://drive.google.com/uc?export=download&id=0B9y54HLy8OQsMUJnSWhOVWE2aEE" type="video/mp4">
-</video>
+<div style="padding:50% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/904866927?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="terraline-viz"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 Visualisation demonstrating line-of-sight searches to find points of interest
 
 **Exhibitions**  

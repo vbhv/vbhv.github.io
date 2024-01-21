@@ -12,10 +12,7 @@ The Lowlands project involved mapping my neighborhood communities, professions a
 
 <br>
 
-<video width="100%" controls poster="https://drive.google.com/uc?export=download&id=0B9y54HLy8OQsZEw1TzlBY291Z0k">
-<source src="https://drive.google.com/uc?export=download&id=0B9y54HLy8OQsbVJtbmlEOXl5Wlk" type="video/ogg">
-<source src="https://drive.google.com/uc?export=download&id=0B9y54HLy8OQsbi03Z2ptNHNVU0k" type="video/mp4">
-</video>
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/904781843?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Lowlands: Visualisations of GPS Mapping"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 Visualisation of the maps as they were made
 
 ![alt text][2]
