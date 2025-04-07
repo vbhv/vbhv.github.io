@@ -1,8 +1,9 @@
 ---
 layout: page
 title: timescape
-header_image: ../images/header/timescape.jpg
-thumbnail: ../images/thumbnails/timescape.jpg
+header_image: ../images/header/timescape.webp
+header_background: '#BA4143'
+thumbnail: ../images/header/timescape.webp
 description: Map-based storytelling platform
 date: 2016-01-01 00:00:00
 ---
@@ -14,28 +15,22 @@ Storytelling and collaboration are two aspects of interactive media that are of 
 <div style="padding:76.92% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/89546043?h=7c5da12ea0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 <br>
 
-![alt text][1]
+![alt text][1]  
+Map based stories  
 
-Map based stories
-
-![alt text][2]
-
+![alt text][2]  
 A coordinated map and timeline to explore the story in space and time
 
-![alt text][3]
-
+![alt text][3]  
 Dashboard for analysing the mapped story with linked visualisations
 
-![alt text][4]
-
+![alt text][4]  
 Overview and detail views on mobile
 
-![alt text][5]
-
+![alt text][5]  
 Showing relationships between events in time
 
-![alt text][6]
-
+![alt text][6]  
 2D maps for regional stories
 
 [1]: /images/timescape/01.jpg "Collection of map based stories on Timescape"

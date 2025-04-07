@@ -30,3 +30,4 @@ collections:
 # Build settings
 markdown: kramdown
 # theme: minima
+exclude: ["todo.md", "README.md", "Gemfile", "Gemfile.lock", "Rakefile", "vendor/bundle/"]

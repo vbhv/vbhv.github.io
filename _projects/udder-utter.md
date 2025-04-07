@@ -3,7 +3,7 @@ layout: page
 title: udder-utter
 header_image: ../images/header/udder.jpg
 #header_background: '#FFDC50'
-thumbnail: ../images/thumbnails/udderutter.png
+thumbnail: ../images/header/udder.webp
 description: Gesture based audio-visual instrument
 date: 2007-09-01 00:00:00
 ---
@@ -14,23 +14,19 @@ I see the Udder as an instrument for both, constructing and rupturing meaning by
 
 ![alt text][1]  
 
-<br>
 <div style="padding:75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/904866097?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Udder-Utter NIME Performance"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 NIME performance excerpt
 
-![alt text][2]
-
+![alt text][2]  
 A spring loaded mechanism with sensors for measuring pull, twist and squeeze gestures
 
-![alt text][3]
-
+![alt text][3]  
 Mapping gestures to language notation
 
 <div style="padding:66.67% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/904866310?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Udder Utter Visual System"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
-Visual system responds to gestures made using the instrument
-
+Visual system responds to gestures made using the instrument  
 ![alt text][4]
 
 **Exhibitions**  

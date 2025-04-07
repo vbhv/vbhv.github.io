@@ -1,8 +1,8 @@
 ---
 layout: page
 title: tween
-header_image: ../images/header/tween.jpg
-thumbnail: ../images/thumbnails/tween.png
+header_image: ../images/header/tween.webp
+thumbnail: ../images/header/tween.webp
 description: Exploratory tool for visualising conversations
 date: 2007-08-01 00:00:00
 ---

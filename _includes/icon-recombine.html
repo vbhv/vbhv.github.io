@@ -1,11 +1,4 @@
-{% if page.url == '/' %}
 <a href="{{ site.baseurl }}/">
-<span class="icon icon-recombine" style="display:none">{% include icon-recombine.svg %}
-</span>
+    <span class="icon icon-recombine">{% include icon-recombine.svg %}
+    </span>
 </a>
-{% else %}
-<a href="{{ site.baseurl }}/">
-<span class="icon icon-recombine">{% include icon-recombine.svg %}
-</span>
-</a>
-{% endif %}

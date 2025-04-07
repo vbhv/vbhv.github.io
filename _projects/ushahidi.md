@@ -2,8 +2,8 @@
 layout: page
 title: ushahidi
 #header_image: ../images/header/timescape.jpg
-thumbnail: ../images/thumbnails/ushahidi.png
-description: Changing the way information flows
+thumbnail: ../images/header/ushahidi.webp
+description: Designing for crowdsourced humanitarian data
 date: 2015-10-01 00:00:00
 ---
 
@@ -19,30 +19,24 @@ The Ushahidi Tracker aggregates all publicly available data from Ushahidi deploy
 
 The new Ushahidi Platform allows anyone to easily deploy a crowdsourced mapping initiative from Ushahidi's website. It has powerful set of capabilities required to manage steady streams of crowdsourced information. Historically, there has been a great deal of interest from users for data visualisations that allow for in-depth analysis of incoming reports and other associated activity within their deployment. We set out to design and build a set of capabilities that would allow users to understand the incoming data to better manage their initiative, as well as to find stories and trends in the data that could be leveraged for advocacy and outreach.
 
-![alt text][6]
-
+![alt text][6]  
 The Activity view enables deployment monitoring and situational awareness
 
-![alt text][4]
-
+![alt text][4]  
 Contextual visualisations help in understanding the trend of incoming reports over time
 
-![alt text][5]
-
+![alt text][5]  
 Contextual visualisations help in understanding the various types of incoming reports
 
 #### Other Projects
 
-![alt text][1]
-
+![alt text][1]  
 Invisible City: Mapping Emotions
 
-![alt text][2]
-
+![alt text][2]  
 Environment Monitoring Platform
 
-![alt text][3]
-
+![alt text][3]  
 Environment Monitoring Platform
 
 [1]: /images/ushahidi/01.jpg "Invisible City: Mapping Emotions"

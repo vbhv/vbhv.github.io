@@ -2,9 +2,10 @@
 layout: page
 title: fukushima
 header_image: ../images/header/fukushima.jpg
-thumbnail: ../images/thumbnails/fukushima.jpg
+thumbnail: ../images/header/fukushima.jpg
 description: Visualising crowsourced radiation data
 date: 2011-03-29 00:00:00
+draft: true
 ---
 
 Citizens and institutions installed hundreds of Geiger counters across Japan after the Fukushima Daiichi nuclear reactors underwent a meltdown in the aftermath of the March 2011 tsunami. This was an unprecedented effort in crowdsourcing environmental data by and for citizens.
